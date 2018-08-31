@@ -25,9 +25,8 @@ The purpose of the application is to demonstrate the ability to simulate models 
 ## Application Features
 
 <div class="columns-2 split-40">
-<span style="height:100px">
+
 ![](options.png)
-</span>
 
 * Select the Variables to be used in the model
     + Residule Plots to the right will be shown for each variable.
