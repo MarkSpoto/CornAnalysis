@@ -42,15 +42,13 @@ The purpose of the application is the demonstrate the ability to simulate models
 
 ![](plots.png)
 
-## Regression Model Information and Corn Prediction Value
-
-![](statisticaloutput.png)
-
 
 ## Shiny Scripts and Application
 
 ### UI and Server Code
 
 The shiny scripts may be found on GitHub at: <https://github.com/MarkSpoto/CornAnalysis>
+
+### Shiny Application
 
 The Corn Statistical Modeler can be found on shinyio at: <https://markspoto.shinyapps.io/CornAnalysis/>
